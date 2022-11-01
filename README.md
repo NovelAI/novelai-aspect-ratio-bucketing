@@ -119,6 +119,6 @@ bucket 18: [1024  256], aspect 4.00000, entries 2326
 assign_buckets: 15.47429s
 ```
 
-## Author
+## Authorship
 
-finetuneanon (NovelAI/Anlatan LLC)
+finetuneanon ([NovelAI](https://novelai.net/)/Anlatan LLC)
