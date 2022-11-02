@@ -1,6 +1,6 @@
 # NovelAI Aspect Ratio Bucketing
 
-Training with aspect ratio bucketing can greatly improve the quality of outputs, so we have decided to release the bucketing code under a permissive MIT license.
+Training with aspect ratio bucketing can greatly improve the quality of outputs (and I personally don't want another base model trained with center crops), so we have decided to release the bucketing code under a permissive MIT license.
 
 This repository provides an implementation of aspect ratio bucketing for training generative image models as described in our [blogpost](https://blog.novelai.net/novelai-improvements-on-stable-diffusion-e10d38db82ac). The relevant section of the post is reproduced below.
 
