@@ -1,3 +1,6 @@
+# Released under MIT license
+# Copyright (c) 2022 finetuneanon (NovelAI/Anlatan LLC)
+
 import numpy as np
 import pickle
 import time
